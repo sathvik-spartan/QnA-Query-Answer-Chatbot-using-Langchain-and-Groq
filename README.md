@@ -62,6 +62,9 @@ This will launch a local web server where you can interact with your QnA chatbot
 
 ## Preview
 
+![image](https://github.com/user-attachments/assets/fcddb627-e273-4e0a-9cee-cffa1922a39f)
+![image](https://github.com/user-attachments/assets/2f35e966-733e-48ff-b7a4-17096ee323c6)
+
 
 ---
 
