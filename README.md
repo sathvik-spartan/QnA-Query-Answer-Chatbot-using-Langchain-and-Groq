@@ -68,7 +68,7 @@ This will launch a local web server where you can interact with your QnA chatbot
 
 ---
 
-## Model Options
+## Model Options      
 
 Choose from the following models via the sidebar:
 
@@ -85,7 +85,7 @@ qna-chatbot/
 ├── requirements.txt     # Python dependencies      
 └── README.md            # Project documentation      
 
-## Contact
+## Contributions      
 
 For feedback or contributions, feel free to open an issue or reach out!      
 Let me know if you'd like to include deployment instructions (e.g., using Streamlit Cloud or Vercel) or integrate additional features like chat history or PDF/QnA ingestion.
