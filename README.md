@@ -73,7 +73,7 @@ This will launch a local web server where you can interact with your QnA chatbot
 Choose from the following models via the sidebar:
 
 - gemma2-9b-it
-- meta-llama/Llama-Guard-4-12B
+- meta-llama/Llama-Guard-4-12B (Used to check for ethical and unethical prompts)
 - llama-3.3-70b-versatile
 - llama-3.1-8b-instant
 
