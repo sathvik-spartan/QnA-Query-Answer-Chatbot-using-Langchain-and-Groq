@@ -1,6 +1,6 @@
 # QnA Chatbot with Streamlit, LangChain & Groq LLMs.
 
-An interactive Question & Answer chatbot built using **Streamlit**, **LangChain**, and **Groq's blazing-fast LLMs**. This project allows users to query using a web interface and get AI-generated responses from large language models like LLaMA-3, LLaMA-Guard, and Gemma.
+An interactive Question & Answer chatbot built using **Streamlit**, **LangChain**, and **Groq's blazing-fast LLMs**. This project allows users to query using a web interface and get AI-generated responses from large language models like LLaMA-3, LLaMA-Guard, and Gemma. Here, meta-llama/Llama-Guard-4-12B model in the chatbot is used for safe protection against unethical prompts 
 
 ---
 
