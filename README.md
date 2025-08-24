@@ -68,6 +68,12 @@ This will launch a local web server where you can interact with your QnA chatbot
 
 ---
 
+## Watch this video to get a glimpse of the chatbot
+- [Click me](https://www.linkedin.com/posts/b-sathvik-reddy_ai-langchain-groq-activity-7333165079791579137-oSQs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD32fd0BNnF5zSYEyL8FoN8VY0MZeTJb0bE)
+
+
+---
+
 ## Model Options      
 
 Choose from the following models via the sidebar:
